@@ -1,0 +1,15 @@
+# payload / client (Python variant, victim-side build)
+mss
+numpy
+pillow
+pynput
+
+# operator side
+pillow
+
+# delivery / recon extras
+scapy
+pyinstaller
+
+# evasion chain builder
+cryptography
